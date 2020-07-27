@@ -1,0 +1,13 @@
+﻿  Using triplet "x64-windows" from "C:\vcpkg\installed\x64-windows\"
+  main.cpp
+C:\Users\zhao_\Pictures\imgui-master\examples\example_win32_directx12_0725\main.cpp(218,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhao_\Pictures\imgui-master\examples\example_win32_directx12_0725\main.cpp(237,39): warning C4456: “io”的声明隐藏了上一个本地声明
+C:\Users\zhao_\Pictures\imgui-master\examples\example_win32_directx12_0725\main.cpp(89,14): message : 参见“io”的声明
+C:\Users\zhao_\Pictures\imgui-master\examples\example_win32_directx12_0725\main.cpp(247,39): warning C4456: “size”的声明隐藏了上一个本地声明
+C:\Users\zhao_\Pictures\imgui-master\examples\example_win32_directx12_0725\main.cpp(218,21): message : 参见“size”的声明
+C:\Users\zhao_\Pictures\imgui-master\examples\example_win32_directx12_0725\main.cpp(380,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhao_\Pictures\imgui-master\examples\example_win32_directx12_0725\main.cpp(420,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhao_\Pictures\imgui-master\examples\example_win32_directx12_0725\main.cpp(217,22): warning C4101: “str”: 未引用的局部变量
+C:\Users\zhao_\Pictures\imgui-master\examples\example_win32_directx12_0725\main.cpp(237,34): warning C4189: “io”: 局部变量已初始化但不引用
+C:\Users\zhao_\Pictures\imgui-master\examples\example_win32_directx12_0725\main.cpp(380,21): warning C4189: “size”: 局部变量已初始化但不引用
+  example_win32_directx12.vcxproj -> C:\Users\zhao_\Pictures\imgui-master\examples\example_win32_directx12_0725\Debug\example_win32_directx12.exe
